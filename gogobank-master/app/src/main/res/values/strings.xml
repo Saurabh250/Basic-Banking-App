@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Banking System</string>
+    <string name="banking_system_app">GOGO Bank</string>
+    <string name="all_users">All Users</string>
+    <string name="all_transactions">All Transactions</string>
+    <string name="select_a_user_to_transfer_money">Select a user to transfer money</string>
+    <string name="user_dummy_image">User dummy image</string>
+    <string name="name">Name :</string>
+    <string name="account_no">Account No :</string>
+    <string name="email">Email :</string>
+    <string name="ifsc_code">IFSC Code :</string>
+    <string name="mobile_no">Mobile No :</string>
+    <string name="current_balance">Current Balance :</string>
+    <string name="transfer_money">Transfer Money</string>
+</resources>
